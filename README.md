@@ -1,4 +1,3 @@
-# text-to-image-generator
 # Text-to-Image Generator
 
 This is a simple AI tool to generate images from text using the Stable Diffusion model.
